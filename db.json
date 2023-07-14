@@ -1,19 +1,44 @@
 {
-  "posts": [
+  "models": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "X1",
+      "year": "2023",
+      "price": "$36,000",
+      "engine": "2.0L 4-cylinder",
+      "horsepower": "228",
+      "torque": "258 lb-ft",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-wheel drive"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "X3",
+      "year": "2023",
+      "price": "$43,000",
+      "engine": "2.0L 4-cylinder",
+      "horsepower": "248",
+      "torque": "258 lb-ft",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-wheel drive"
+    },
+    {
+      "name": "X5",
+      "year": "2023",
+      "price": "$59,000",
+      "engine": "3.0L 6-cylinder",
+      "horsepower": "335",
+      "torque": "330 lb-ft",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-wheel drive"
+    },
+    {
+      "name": "X7",
+      "year": "2023",
+      "price": "$74,000",
+      "engine": "3.0L 6-cylinder",
+      "horsepower": "335",
+      "torque": "330 lb-ft",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-wheel drive"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
